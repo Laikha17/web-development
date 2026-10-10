@@ -26,4 +26,35 @@ h1{
 body{
     margin: 0px;
     background-color: antiquewhite;
+    align-items: center;
+}
+.card{
+    border: 2px,solid,black;
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    overflow: hidden;
+    padding-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card img{
+    width: 100%;
+}
+.card button{
+    width: 75%;
+    padding: 10px;
+    margin: 5px;
+    background-color: cadetblue;
+    cursor: pointer;
+    border: none;
+    border-radius: 50px;
+}
+.card button:hover{
+    cursor: pointer;
+    color: palegreen;
+    background-color: chocolate;
 }
