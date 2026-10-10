@@ -5,7 +5,7 @@ var users=[
         "image":"john.png"
     },
     {
-        "name":"Jane Doe",
+        "name":"Laikha Abdul",
         "gender":"Female",
         "image":"jane.png"
     }
